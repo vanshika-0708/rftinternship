@@ -10,4 +10,5 @@ plt.pie(expenses,labels=categories,
         colors=colors,startangle=140,shadow=True)
 plt.title("Category breakdown-Expense Distribution",fontsize=14,fontweight="bold")
 plt.tight_layout()
+plt.savefig("chart.png")
 plt.show()
