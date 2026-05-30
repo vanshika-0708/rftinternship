@@ -1,21 +1,15 @@
 # SALES DATA ANALYSIS PROJECT
 # DATASET INCLUDED INSIDE THE CODE
-# ==========================================
-
 # Import Libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 # ------------------------------------------
 # CREATE DATASET INSIDE PYTHON
 # ------------------------------------------
-
 np.random.seed(42)
-
 n = 500
-
 categories = ["Electronics", "Clothing", "Furniture", "Sports", "Books"]
 regions = ["North", "South", "East", "West"]
 
@@ -53,10 +47,7 @@ data = {
 # Convert into DataFrame
 df = pd.DataFrame(data)
 
-# ------------------------------------------
 # DATA CLEANING
-# ------------------------------------------
-
 print("First 5 Rows:")
 print(df.head())
 
@@ -69,10 +60,7 @@ print(df.isnull().sum())
 # Remove duplicates
 df.drop_duplicates(inplace=True)
 
-# ------------------------------------------
 # DATA ANALYSIS
-# ------------------------------------------
-
 # Total Sales
 total_sales = df["Sales"].sum()
 print("\nTotal Sales:", total_sales)
@@ -96,10 +84,7 @@ df["Month"] = pd.to_datetime(df["Date"]).dt.month
 
 monthly_sales = df.groupby("Month")["Sales"].sum()
 
-# ------------------------------------------
 # DATA VISUALIZATION
-# ------------------------------------------
-
 # 1. Bar Chart
 plt.figure(figsize=(8,5))
 category_sales.plot(kind="bar")
@@ -134,11 +119,8 @@ sns.countplot(x="Category", data=df)
 plt.title("Number of Orders per Category")
 plt.show()
 
-# ------------------------------------------
 # INSIGHTS
-# ------------------------------------------
-
-print("\n===== PROJECT INSIGHTS =====")
+print("\n=====PROJECT INSIGHTS =====")
 
 print("1. Electronics category generates high sales.")
 print("2. Sales vary across different regions.")
@@ -146,18 +128,12 @@ print("3. Monthly sales trend helps identify growth.")
 print("4. Data visualization makes analysis easier.")
 print("5. Discounts affect overall sales performance.")
 
-# ------------------------------------------
 # SAVE DATASET
-# ------------------------------------------
-
 df.to_csv("sales_dataset.csv", index=False)
 
 print("\nDataset saved as sales_dataset.csv")
 
-# ------------------------------------------
 # PROJECT SUMMARY
-# ------------------------------------------
-
 summary = """
 This project creates a sales dataset inside Python using NumPy and Pandas.
 The project performs:
