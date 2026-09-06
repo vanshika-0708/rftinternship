@@ -1,0 +1,2 @@
+Rank,Name,Skills,Experience,Education,MatchScore,MatchedKeywords,MissingSkills
+1,candidate1.txt,"Python, SQL, Machine Learning, Pandas",3 years,B.Tech Computer Science,50.0,"learning, machine, pandas, python, sql","analysis, data, developer, experience, streamlit"

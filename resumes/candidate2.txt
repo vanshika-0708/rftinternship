@@ -1,0 +1,4 @@
+﻿Name: Priya Sharma
+Skills: Java, Data Analysis, Communication
+Experience: 1 year
+Education: BCA
