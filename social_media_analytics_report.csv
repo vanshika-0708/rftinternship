@@ -1,0 +1,21 @@
+Date,User,Hashtag,Likes,Comments,Shares,Category,Post_Time,Text,Engagement,Sentiment
+2026-09-01,Aman,#Python,120,20,15,Education,10:30,Learning Python today,155,Neutral
+2026-09-01,Riya,#AI,250,40,30,Technology,14:00,AI is amazing,320,Positive
+2026-09-02,Rahul,#Python,180,25,20,Education,11:00,Python project completed,225,Neutral
+2026-09-02,Neha,#ML,220,35,25,Technology,15:30,Machine learning is useful,280,Positive
+2026-09-03,Aman,#AI,300,50,45,Technology,14:00,Artificial intelligence is great,395,Positive
+2026-09-03,Riya,#Travel,150,30,20,Travel,18:00,Beautiful travel experience,200,Positive
+2026-09-04,Rahul,#Python,200,35,25,Education,10:30,Python makes programming easy,260,Positive
+2026-09-04,Neha,#AI,280,45,35,Technology,14:00,AI technology is growing,360,Neutral
+2026-09-05,Aman,#ML,190,28,22,Technology,15:30,Machine learning helps students,240,Neutral
+2026-09-05,Riya,#Fitness,170,32,18,Health,08:00,Morning workout feels great,220,Positive
+2026-09-06,Rahul,#AI,320,55,50,Technology,14:00,AI is changing the future,425,Neutral
+2026-09-06,Neha,#Python,210,30,27,Education,11:00,Python coding is fun,267,Positive
+2026-09-07,Aman,#Travel,160,25,24,Travel,18:00,Amazing weekend trip,209,Positive
+2026-09-07,Riya,#AI,290,48,38,Technology,14:00,Learning about artificial intelligence,376,Negative
+2026-09-08,Rahul,#Fitness,140,22,16,Health,08:00,Workout motivation for today,178,Neutral
+2026-09-08,Neha,#ML,260,42,33,Technology,15:30,Machine learning project finished,335,Neutral
+2026-09-09,Aman,#Python,230,38,29,Education,10:30,Python makes data analysis easy,297,Positive
+2026-09-09,Riya,#AI,310,52,44,Technology,14:00,AI innovations are exciting,406,Positive
+2026-09-10,Rahul,#Travel,175,29,21,Travel,18:00,Exploring a beautiful new place,225,Positive
+2026-09-10,Neha,#Python,245,40,31,Education,11:00,Practicing Python every day,316,Neutral
