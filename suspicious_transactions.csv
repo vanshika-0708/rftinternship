@@ -1,0 +1,4 @@
+TransactionID,Date,Account,Category,Amount,Risk Score
+T003,2026-02-09,A101,Electronics,75000,70
+T005,2026-03-09,A101,Shopping,60000,70
+T008,2026-04-09,A101,Electronics,80000,70
