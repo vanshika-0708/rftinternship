@@ -1,0 +1,9 @@
+Invoice_Number,Customer,Invoice_Date,Item,Unit_Price,Quantity,Due_Date,Total_Amount,Status
+INV001,ABC Technologies,2026-09-01,Laptop Stand,2500,2,2026-09-15,5000,Overdue
+INV002,Bright Solutions,2026-09-03,Wireless Mouse,1200,3,2026-09-18,3600,Overdue
+INV003,Green Enterprises,2026-09-05,Keyboard,1800,1,2026-09-20,1800,Overdue
+INV004,Skyline Traders,2026-09-07,Monitor,12500,2,2026-09-22,25000,Overdue
+INV005,Nova Systems,2026-09-10,USB Hub,900,4,2026-09-25,3600,Overdue
+INV006,Future Works,2026-09-12,Webcam,3500,2,2026-09-28,7000,Overdue
+INV007,Tech World,2026-09-15,Headset,2200,1,2026-10-01,2200,Overdue
+INV008,Smart Retail,2026-09-18,External SSD,6500,2,2026-10-05,13000,Overdue

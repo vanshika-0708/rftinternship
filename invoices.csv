@@ -1,0 +1,22 @@
+﻿Invoice_Number,Customer,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Invoice_Number,Customer_Name,Invoice_Date,Item,Price,Due_Date
+INV001,Rahul Sharma,1/9/2026,Laptop,55000,15/9/2026
+INV002,Priya  Singh,10/9/2026,Keyboard,1500,10/10/2026
+INV003,Amit Kumar,15/8/2026,Monitor,12000,30/8/2026
+INV004,Neha Gupta,20/9/2026,Mouse,800,5/10/2026
+INV005,Ankit Verma,25/8/2026,Printer,8500,5/9/2026
